@@ -49,7 +49,7 @@ Using Example 1: <br>
 ```
 { "\x48\xC7\xC2\x01\x00\x00\x00", "\x48\xC7\xC1\x02\x00\x00\x00", "\x48\x01\xCA" }
 ```
-3. Split the masks as well
+3. Split the masks as well. <br>
 Using Example 1: <br>
 ```
 { "xxxx????", "xxxx????", "xxx" }
